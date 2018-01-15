@@ -5,6 +5,12 @@ Observer:观察者模式
 
 定义：观察者模式定义了对象之间一种一对多的关系，当主体对象的状态信息发生变化时，所有依赖于它的观察者都会得到通知并且自动更新状态。
 
+优点：动态联动，观察者与主体的松耦合。
+
+推模型：推模型推部分数据给观察者，有局限性。
+
+拉模型：拉模型直接将目标对象传递给观察者，观察者根据需要取出数据。
+
 类图：
 ![Alt text](https://github.com/eddiepengdenvren/designPattern/raw/master/images/Observer.jpg)
 
