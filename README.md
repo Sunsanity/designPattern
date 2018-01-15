@@ -8,6 +8,10 @@ Observer:观察者模式
 类图：
 ![Alt text](https://github.com/eddiepengdenvren/designPattern/raw/master/images/Observer.jpg)
 
+
+
+
+
 COR:Chain of Responsibility:责任链模式
 
 定义：作为请求接受者的多个对象通过对其后继的引用连接起来形成一条链，客户端的请求在这条链上传递，直到链上的某一个接收者处理这个请求，每个接收者都可以选择自行处理请求或是向后继传递请求。
