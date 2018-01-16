@@ -12,7 +12,7 @@ Observer:观察者模式
 拉模型：拉模型直接将目标对象传递给观察者，观察者根据需要取出数据。
 
 类图：
-![Alt text](https://github.com/eddiepengdenvren/designPattern/raw/master/images/Observer.jpg)
+![Alt text](https://github.com/eddiepengdenvren/designPattern/raw/master/images/Observer.png)
 
 
 
@@ -35,4 +35,4 @@ COR:Chain of Responsibility:责任链模式
   过滤器：有一点点区别，过滤器中可能有多个处理器会处理请求。而责任链模式中只会有一个handler处理请求。
 
 类图：
-![Alt text](https://github.com/eddiepengdenvren/designPattern/raw/master/images/Observer.jpg)
+![Alt text](https://github.com/eddiepengdenvren/designPattern/raw/master/images/COR.png)
