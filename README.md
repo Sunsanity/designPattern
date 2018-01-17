@@ -66,3 +66,18 @@ JAVA支持单继承，对于旧系统中多数类已经处于继承层次中，�
 
 类图：
 ![Alt text](https://github.com/eddiepengdenvren/designPattern/raw/master/images/modelMethod.jpg)
+
+适配器模式:
+
+适配器模式将一个类的接口转换成用户期望的另外一个接口，使得原本由于接口不兼容而不能一起工作的类在一起工作。
+
+作用：
+
+1.复用了当前存在的类，解决了现存类和复用环境要求不一致的问题。
+
+2.将目标类和适配者类解耦，通过引入一个适配器类重用了适配者类，而无需修改原有代码，遵循了开闭原则。
+
+类图：
+![Alt text](https://github.com/eddiepengdenvren/designPattern/raw/master/images/adapter.png)
+
+
