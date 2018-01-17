@@ -36,3 +36,5 @@ COR:Chain of Responsibility:责任链模式
 
 类图：
 ![Alt text](https://github.com/eddiepengdenvren/designPattern/raw/master/images/COR.png)
+
+单例模式:Singleton  保证只会存在一个实例，需要使用双重检测机制判断实例是否为空，同时要使用volatile保证构造单例时的指令重排序导致的返回为初始化的单例对象
