@@ -113,5 +113,7 @@ JAVA支持单继承，对于旧系统中多数类已经处于继承层次中，�
 
 3：存在多个条件语句判断时
 
+类图：
+![Alt text](https://github.com/eddiepengdenvren/designPattern/raw/master/images/strategy.png)
 
 
