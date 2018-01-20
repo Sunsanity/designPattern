@@ -182,5 +182,6 @@ JDK动态代理要求被代理对象必须实现某个接口，某则无法为�
 
 类图：
 ![Alt text](https://github.com/eddiepengdenvren/designPattern/raw/master/images/jdkProxy.png)
+![Alt text](https://github.com/eddiepengdenvren/designPattern/raw/master/images/cglibVSjdk.png)
 
 
